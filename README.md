@@ -21,7 +21,7 @@ My interest:
 - IoT
 - Automation
 
-## Experience
+## :large_blue_circle: Experience
 
 ### Full Stack Developer
 
