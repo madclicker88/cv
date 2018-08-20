@@ -131,3 +131,8 @@ Skills
 X-Tend Group | 2005 - 2008
 
 As a part of a team with 5 members successfully built three web projects from scratch with C#, ASP.NET, JS, MS SQL Server.
+
+| | |
+|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
