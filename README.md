@@ -1,3 +1,5 @@
+![](assets/sergey-onufrienko.png)
+
 # Sergey Onufrienko
 #### Full Stack Developer
 
