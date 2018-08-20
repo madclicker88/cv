@@ -90,7 +90,7 @@ Skills
 
 ---
 
-### Full-stack Developer
+### Full Stack Developer
 
 Gollos Czech Republic s.r.o. | 2008 - 2016
 --- | ---
@@ -124,7 +124,7 @@ Skills
 
 ---
 
-### Junior Full-stack Developer
+### Junior Full Stack Developer
 
 X-Tend Group | 2005 - 2008
 --- | ---
@@ -141,9 +141,20 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 
 **Front End Languages**
 - HTML
-    - [ ] Storage
+    - [x] Cookies
+    - [x] sessionStorage, localStorage
+    - [ ] Web Components
+    - [ ] Shadow DOM
 - CSS
-    - [ ] LESS, SASS, SCSS, PostCSS
+    - [x] Flexbox
+    - [x] Transition
+    - [x] Media Queries
+    - [ ] CSS Grid
+    - [ ] Variables
+    - [x] CSS Modules
+    - [ ] BEM
+    - [x] PostCSS
+    - [ ] SASS, LESS
 - JavaScript (ES6/7)
     - [x] Modules
     - [x] Classes
@@ -158,6 +169,7 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
     - [ ] Iterators
     - [ ] Generators
     - [ ] Reflection API
+    - [ ] Garbage Collector
 
 **Back End Languages**
 - JavaScript
@@ -165,38 +177,85 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 
 **Frameworks**
 - React
-- Redux, Redux Thunk, Redux Form
-- React Router
+    - [x] SSR
+    - [x] Component lifecycle
+    - [x] Component, PureComponent, Stateless Component
+    - [x] Virtual DOM
+    - [x] react-router
+    - [x] Redux
+    - [x] redux-thunk
+    - [x] redux-form
+    - [ ] Reselect
+    - [ ] fiber
+    - [ ] Portal
+    - [ ] Refs
+    - [ ] Context
+    - [ ] redux-saga
+    - [ ] react-hot-loader
+    - [ ] Styled components
 - Bulma
 - Material-UI
 - Express.js
 - .NET
 - jQuery
 
-**Databases**
-- MS SQL Server
-- MongoDB
-- Redis
+**Web API**
+- [x] Server Side Evens
+- [x] WebSockets
+- [x] Fetch (CORS, Blob, Multipart)
+- [x] Notifications API
+- [ ] Intersection Observer
+- [ ] WebAuthn
+- [ ] IndexedDB
+- [ ] WebAssembly
+- [ ] Web Workers, Service Workers, Shared Workers
+- [ ] Payment Request API
+- [ ] Push API
 
-**Tools**
-- VS Code
-- Atom
+**Databases**
+- [x] MS SQL Server
+- [x] MongoDB
+- [x] Redis
+- [ ] Firebase
+- [ ] PostgreSQL
 
 **Servers**
-- Nginx
-- Node
-- IIS
+- [x] Nginx
+- [x] Node.js
+- [x] IIS
+- [ ] AWS Lambda
+- [ ] Cloud Functions
 
 **Task & Project Management**
 - GitHub
 - Jira
 
 **Methodologies**
-- Kanban board
-- Agile
+- [x] Kanban board
+- [x] Agile
+- [ ] Kaizen in Software Development
 
 **Data centers**
 AWS, DigitalOcean, OVH, Hetzner
 
 **Other**
-NPM, WebPack, Babel, Gulp, Postman, Responsive design, CSS media queries, Server Side Evens, WebSockets, Geolocation, Bash scripts, JWT, Lodash, Let's encrypt, Apache Benchmark, Nmap, Node.js cluster with PM2, CloudFlare, DNS Made Easy, Prometheus, Docker (Swarm, Machine, Compose)
+Linux Ubuntu, VS Code, Atom, NPM, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Apache Benchmark, Nmap, cluster with PM2, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
+
+**Other**
+- [ ] TDD
+- [ ] Jest
+- [ ] Mocha
+- [ ] Puppeteer
+- [ ] Chrome DevTools
+- [ ] Advanced Git
+- [ ] Functional Programming
+- [ ] RAIL: User-Centric Performance
+- [ ] CI/CD
+- [ ] Jenkins
+- [ ] Basics of Docker Cloud
+- [ ] Advanced HTTP/2
+- [ ] Offline first
+- [ ] data sync patterns
+- [ ] graceful degradation
+- [ ] progressive enchancment
+- [ ] GraphQL
