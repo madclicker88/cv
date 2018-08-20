@@ -245,11 +245,11 @@ AWS, DigitalOcean, OVH, Hetzner
 Linux Ubuntu, VS Code, Atom, NPM, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Apache Benchmark, Nmap, cluster with PM2, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
 
 **To-do**
-- [ ] TDD
-- [ ] Jest
-- [ ] Mocha
+- [ ] TDD :hourglass:
+- [ ] Jest :hourglass:
+- [ ] Mocha :hourglass:
+- [ ] Chrome DevTools :hourglass:
 - [ ] Puppeteer
-- [ ] Chrome DevTools
 - [ ] Advanced Git
 - [ ] Functional Programming
 - [ ] RAIL: User-Centric Performance
