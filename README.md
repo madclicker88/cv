@@ -126,7 +126,7 @@ Skills
 
 ### Junior Full-stack Developer
 
-&nbsp; | &nbsp;
+|||
 --- | ---
 X-Tend Group | 2005 - 2008
 
