@@ -262,3 +262,4 @@ Linux Ubuntu, VS Code, Atom, NPM, WebPack, Babel, ESLint, Gulp, Postman, Geoloca
 - [ ] graceful degradation
 - [ ] progressive enchancment
 - [ ] GraphQL
+- [ ] React Native
