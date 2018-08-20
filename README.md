@@ -1,7 +1,7 @@
 # Sergey Onufrienko
 #### Full Stack Developer
 
-![Sergey Onufrienko](./assets/sergey-onufrienko.png | width=220)
+![Sergey Onufrienko](assets/sergey-onufrienko.png){:height="220px"}
 
 | | |
 - | -
