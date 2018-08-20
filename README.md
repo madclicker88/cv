@@ -11,7 +11,8 @@ sergey@onufrienko.com | [Twitter](https://twitter.com/onufrienkos)
   
 I am a web developer with 13+ years of experience and I love my job. I like to care about products I built. I am very passionate about current and future of web apps. New features and trends are unbelievable.
 
-My interest:
+My interest :heart_eyes:
+
 - Web apps (SPA, PWA)
 - Web services (API)
 - Web security
@@ -243,7 +244,7 @@ AWS, DigitalOcean, OVH, Hetzner
 **Other**
 Linux Ubuntu, VS Code, Atom, NPM, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Apache Benchmark, Nmap, cluster with PM2, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
 
-**To-do** :bulb:
+**To-do**
 - [ ] TDD
 - [ ] Jest
 - [ ] Mocha
