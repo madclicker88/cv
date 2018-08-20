@@ -21,7 +21,7 @@ My interest:
 - IoT
 - Automation
 
-## :small_orange_diamond: Experience
+## :large_orange_diamond: Experience
 
 ### Full Stack Developer
 
@@ -135,11 +135,11 @@ As a part of a team with 5 members successfully built three web projects from sc
 
 ---
 
-## Education
+## :large_orange_diamond: Education
 
 National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty of Systems Analysis. Bachelor's degree.
 
-## Skills
+## :large_orange_diamond: Skills
 
 **Front End Languages**
 - HTML
@@ -243,7 +243,7 @@ AWS, DigitalOcean, OVH, Hetzner
 **Other**
 Linux Ubuntu, VS Code, Atom, NPM, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Apache Benchmark, Nmap, cluster with PM2, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
 
-**To-do**
+**To-do** :bulb:
 - [ ] TDD
 - [ ] Jest
 - [ ] Mocha
