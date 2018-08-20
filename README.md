@@ -126,13 +126,77 @@ Skills
 
 ### Junior Full-stack Developer
 
-|||
---- | ---
 X-Tend Group | 2005 - 2008
+--- | ---
 
 As a part of a team with 5 members successfully built three web projects from scratch with C#, ASP.NET, JS, MS SQL Server.
 
-| | |
-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
+---
+
+## Education
+
+National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty of Systems Analysis. Bachelor's degree.
+
+## Skills
+
+**Front End Languages**
+- HTML
+    - [ ] Storage
+- CSS
+    - [ ] LESS, SASS, SCSS, PostCSS
+- JavaScript (ES6/7)
+    - [x] Modules
+    - [x] Classes
+    - [x] Promise, async/await, async function
+    - [x] let/const
+    - [x] Arrow function
+    - [x] Descructuring
+    - [x] Collections: Set, Map
+    - [x] Spread Operator, Rest Parameters
+    - [ ] Symbol
+    - [ ] Proxy
+    - [ ] Iterators
+    - [ ] Generators
+    - [ ] Reflection API
+
+**Back End Languages**
+- JavaScript
+- C#
+
+**Frameworks**
+- React
+- Redux, Redux Thunk, Redux Form
+- React Router
+- Bulma
+- Material-UI
+- Express.js
+- .NET
+- jQuery
+
+**Databases**
+- MS SQL Server
+- MongoDB
+- Redis
+
+**Tools**
+- VS Code
+- Atom
+
+**Servers**
+- Nginx
+- Node
+- IIS
+
+**Task & Project Management**
+- GitHub
+- Jira
+
+**Methodologies**
+- Kanban board
+- Agile
+
+**Data centers**
+AWS, DigitalOcean, OVH, Hetzner
+
+**Other**
+NPM, WebPack, Babel, Gulp, Postman, Responsive design, CSS media queries, Server Side Evens, WebSockets, Geolocation, Bash scripts, JWT, Lodash, Let's encrypt, Apache Benchmark, Nmap, Node.js cluster with PM2, CloudFlare, DNS Made Easy, Prometheus, Docker (Swarm, Machine, Compose)
