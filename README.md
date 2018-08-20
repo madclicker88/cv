@@ -1,10 +1,8 @@
 # Sergey Onufrienko
 #### Full Stack Developer
 
-![Sergey Onufrienko](assets/sergey-onufrienko.png){:height="220px"}
-
-| | |
-- | -
+|||
+---- | ----
 Kiev, Ukraine | [GitHub](https://github.com/sonufrienko)
 September 28, 1985 | [LinkedIn](https://www.linkedin.com/in/onufrienko/)
 sergey@onufrienko.com | [Twitter](https://twitter.com/onufrienkos)
