@@ -220,6 +220,8 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - [ ] Web Workers, Service Workers, Shared Workers
 - [ ] Payment Request API
 - [ ] Push API
+- [ ] Geolocation API
+- [ ] Network Information API
 
 **Databases**
 - [x] MS SQL Server
