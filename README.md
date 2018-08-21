@@ -33,8 +33,7 @@ I contribute to [Cezerin](https://github.com/cezerin/cezerin) - open source eCom
 
 Responsibilities
 
-- Consulting a founder with architecture
-- Consulting new developers and help with setup on Docker
+- Consulting about API First design, Docker, theme as a package
 - Developing new features
 - Refactoring and opimizations
 - Fix bugs
@@ -47,6 +46,10 @@ Achievements
 - Developed integrations with Google Sheets, payment gateway, Facebook etc.
 - Developed real-time updates with WebSocket and REST API
 - Improved performance, fixed memory leak and stability
+- Publish Docker image
+- Publish [NPM package](https://www.npmjs.com/package/cezerin-client)
+- Setup CI :hourglass:
+- Setup CD :hourglass:
 
 Skills
 
