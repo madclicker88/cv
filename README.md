@@ -191,6 +191,9 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
     - [x] Redux
     - [x] redux-thunk
     - [x] redux-form
+    - [ ] Patterns
+    - [ ] Code splitting
+    - [ ] Dynamic imports
     - [ ] Reselect
     - [ ] fiber
     - [ ] Portal
