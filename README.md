@@ -234,8 +234,10 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - [x] Nginx
 - [x] Node.js
 - [x] IIS
-- [ ] AWS Lambda
-- [ ] Cloud Functions
+
+**Test**
+- [x] TDD
+- [x] Jest
 
 **Task & Project Management**
 - GitHub
@@ -247,26 +249,31 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - [ ] Kaizen in Software Development
 
 **Data centers**
-AWS, DigitalOcean, OVH, Hetzner
+- AWS
+    - [x] EC2, VPC
+    - [x] EBS
+    - [x] SES
+    - [x] CloudWatch
+    - [ ] S3
+    - [ ] Elastic Beanstalk
+    - [ ] Elastic Load Balancing & Auto Scaling
+    - [ ] Lambda
+    - [ ] SNS
+    - [ ] Route 53
+- DigitalOcean
+- OVH
+- Hetzner
 
 **Other**
 Linux Ubuntu, VS Code, Atom, NPM, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Apache Benchmark, Nmap, cluster with PM2, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
 
 **To-do**
-- [ ] TDD :hourglass:
-- [ ] Jest :hourglass:
-- [ ] Mocha :hourglass:
-- [ ] Chrome DevTools :hourglass:
-- [ ] Puppeteer
 - [ ] Advanced Git
 - [ ] Functional Programming
-- [ ] RAIL: User-Centric Performance
 - [ ] CI/CD
 - [ ] Jenkins
 - [ ] Basics of Docker Cloud
 - [ ] Advanced HTTP/2
-- [ ] Offline first
-- [ ] data sync patterns
 - [ ] graceful degradation
 - [ ] progressive enchancment
 - [ ] GraphQL
