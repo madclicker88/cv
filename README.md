@@ -234,8 +234,19 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - [ ] PostgreSQL
 
 **Servers**
+- Node.js
+    - [x] NPM (publish)
+    - [x] PM2 (cluster, watch, limit)
+    - [x] Debug
+    - [x] Secure
+    - [x] WebSocket
+    - [x] SSE
+    - [ ] Stream
+    - [ ] GC
+    - [ ] Founding memory leaks
+    - [ ] Monitoring
+    - [ ] Scale, Cluster
 - [x] Nginx
-- [x] Node.js
 - [x] IIS
 
 **Test**
@@ -272,7 +283,7 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 **Protocols**
 
 **Other**
-Linux Ubuntu, VS Code, Atom, NPM, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Apache Benchmark, Nmap, cluster with PM2, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
+Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Nmap, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
 
 **To-do**
 - [x] TDD
