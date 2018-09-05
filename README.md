@@ -236,8 +236,10 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - [x] IIS
 
 **Test**
-- [x] TDD
 - [x] Jest
+- [x] SuperTest
+- [x] ApacheBench
+- [x] AutoCannon
 
 **Task & Project Management**
 - GitHub
