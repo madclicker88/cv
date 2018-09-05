@@ -145,6 +145,9 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 
 ## :large_orange_diamond: Skills
 
+- [x] *- I already know it*
+- [ ] *- I want to learn it*
+
 **Front End Languages**
 - HTML
     - [x] Cookies
