@@ -271,11 +271,11 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
     - [x] SES
     - [x] CloudWatch
     - [ ] S3
-    - [ ] Elastic Beanstalk
-    - [ ] Elastic Load Balancing & Auto Scaling
+    - [x] Elastic Beanstalk
+    - [x] Elastic Load Balancing & Auto Scaling
     - [ ] Lambda
     - [ ] SNS
-    - [ ] Route 53
+    - [x] Route 53
 - DigitalOcean
 - OVH
 - Hetzner
@@ -283,16 +283,13 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 **Protocols**
 
 **Other**
-Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Nmap, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
+Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Nmap, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose), Jenkins, HTTP/2.
 
 **To-do**
 - [x] TDD
 - [ ] Advanced Git
 - [ ] Functional Programming
 - [ ] CI/CD
-- [x] Jenkins
-- [ ] Basics of Docker Cloud
-- [x] Advanced HTTP/2
 - [ ] graceful degradation
 - [ ] progressive enchancment
 - [ ] GraphQL
