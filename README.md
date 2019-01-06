@@ -228,6 +228,7 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 
 **Databases**
 - [x] MS SQL Server
+- [x] MySQL
 - [x] MongoDB
 - [x] Redis
 - [ ] Firebase
