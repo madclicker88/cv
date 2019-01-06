@@ -267,16 +267,12 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 
 **Data centers**
 - AWS
-    - [x] EC2, VPC
-    - [x] EBS
+    - [x] EC2, EBS, ELB, ASG
+    - [x] ECS
     - [x] SES
     - [x] CloudWatch
-    - [x] Elastic Beanstalk
-    - [x] Elastic Load Balancing
-    - [x] Auto Scaling Group
     - [x] Route 53
     - [x] Lambda
-    - [x] ECS
     - [x] S3
     - [x] RDS
     - [ ] SNS
