@@ -290,9 +290,7 @@ Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation,
 - [ ] Advanced Git
 - [ ] Functional Programming
 - [ ] CI/CD
-- [ ] Jenkins
 - [ ] Basics of Docker Cloud
-- [ ] Advanced HTTP/2
 - [ ] graceful degradation
 - [ ] progressive enchancment
 - [ ] GraphQL
