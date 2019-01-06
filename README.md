@@ -216,6 +216,7 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - [x] WebSockets
 - [x] Fetch (CORS, Blob, Multipart)
 - [x] Notifications API
+- [ ] Channel Messaging API
 - [ ] Intersection Observer
 - [ ] WebAuthn
 - [ ] IndexedDB
