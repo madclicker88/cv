@@ -270,12 +270,15 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
     - [x] EBS
     - [x] SES
     - [x] CloudWatch
-    - [ ] S3
     - [x] Elastic Beanstalk
-    - [x] Elastic Load Balancing & Auto Scaling
-    - [ ] Lambda
-    - [ ] SNS
+    - [x] Elastic Load Balancing
+    - [x] Auto Scaling Group
     - [x] Route 53
+    - [x] Lambda
+    - [x] ECS
+    - [x] S3
+    - [ ] SNS
+    - [ ] AWS CLI
 - DigitalOcean
 - OVH
 - Hetzner
