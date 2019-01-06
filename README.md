@@ -251,10 +251,14 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - [x] IIS
 
 **Test**
-- [x] Jest
-- [x] SuperTest
-- [x] ApacheBench
-- [x] AutoCannon
+- Unit tests
+    - [x] Jest
+    - [x] SuperTest
+- Load tests
+    - [x] ApacheBench
+    - [x] WRK
+    - [x] AutoCannon
+    - [x] nghttp (HTTP/2)
 
 **Task & Project Management**
 - GitHub
