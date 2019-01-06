@@ -238,6 +238,7 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
 - Node.js
     - [x] NPM (publish)
     - [x] PM2 (cluster, watch, limit)
+    - [x] Express, Fastify (HTTP/2)
     - [x] Debug
     - [x] Secure
     - [x] WebSocket
