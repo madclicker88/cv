@@ -278,6 +278,7 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
     - [x] Lambda
     - [x] ECS
     - [x] S3
+    - [x] RDS
     - [ ] SNS
     - [ ] AWS CLI
 - DigitalOcean
