@@ -158,11 +158,11 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty o
     - [x] Flexbox
     - [x] Transition
     - [x] Media Queries
+    - [x] CSS Modules
+    - [x] PostCSS
     - [ ] CSS Grid
     - [ ] Variables
-    - [x] CSS Modules
     - [ ] BEM
-    - [x] PostCSS
     - [ ] SASS, LESS
 - JavaScript (ES6/7)
     - [x] Modules
@@ -296,7 +296,5 @@ Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation,
 - [ ] Advanced Git
 - [ ] Functional Programming
 - [ ] CI/CD
-- [ ] graceful degradation
-- [ ] progressive enchancment
 - [ ] GraphQL
 - [ ] React Native
